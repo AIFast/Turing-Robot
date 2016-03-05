@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\Laosong\图灵聊天机器人\图灵聊天机器人\bin\Debug\图灵聊天机器人.exe.config
+C:\Users\Administrator\Desktop\Laosong\图灵聊天机器人\图灵聊天机器人\obj\Debug\图灵聊天机器人.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Laosong\图灵聊天机器人\图灵聊天机器人\obj\Debug\图灵聊天机器人.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Laosong\图灵聊天机器人\图灵聊天机器人\obj\Debug\图灵聊天机器人.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Laosong\图灵聊天机器人\图灵聊天机器人\bin\Debug\图灵聊天机器人.exe
+C:\Users\Administrator\Desktop\Laosong\图灵聊天机器人\图灵聊天机器人\bin\Debug\图灵聊天机器人.pdb
+C:\Users\Administrator\Desktop\Laosong\图灵聊天机器人\图灵聊天机器人\obj\Debug\图灵聊天机器人.MainForm.resources
+C:\Users\Administrator\Desktop\Laosong\图灵聊天机器人\图灵聊天机器人\obj\Debug\图灵聊天机器人.exe
+C:\Users\Administrator\Desktop\Laosong\图灵聊天机器人\图灵聊天机器人\obj\Debug\图灵聊天机器人.pdb
